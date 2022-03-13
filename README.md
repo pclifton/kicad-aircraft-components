@@ -7,7 +7,7 @@ Symbol library of aircraft-ish components for KiCad
 KiCad is a free, open-source, cross-platform electronic design package. It's really oriented towards designing PCBs, but I liked the schematic feature set enough to use it for designing my homebuilt aircraft's electrical system. Problem is, being PCB-oriented, the included symbol library doesn't include larger components. So I decided to create my own symbol library of all the components I needed to design my system.
 
 [KiCAD info on Wikipedia](https://en.wikipedia.org/wiki/KiCad)  
-[KiCad site](http://kicad-pcb.org/)
+[KiCad site](http://kicad.org/)
 
 ## Library installation
 
